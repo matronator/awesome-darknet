@@ -1,0 +1,26 @@
+{
+  "name": "darknet-list",
+  "version": "1.0.0",
+  "description": "PGP verified list of .onion links of various Onion Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarknetList/darknet-list.git"
+  },
+  "keywords": [
+    "darknet",
+    "onion",
+    "hidden-service",
+    "tor",
+    "dark-web"
+  ],
+  "author": "DarknetList",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/DarknetList/darknet-list/issues"
+  },
+  "homepage": "https://github.com/DarknetList/darknet-list#readme"
+}
