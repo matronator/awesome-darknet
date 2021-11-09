@@ -1,5 +1,5 @@
 {
-  "name": "darknet-list",
+  "name": "awesome-darknet",
   "version": "1.0.0",
   "description": "PGP verified list of .onion links of various Onion Services",
   "main": "index.js",
@@ -17,10 +17,14 @@
     "tor",
     "dark-web"
   ],
-  "author": "DarknetList",
-  "license": "SEE LICENSE IN <LICENSE>",
+  "author": "DarknetList <darknetlist@protonmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/DarknetList/darknet-list/issues"
   },
-  "homepage": "https://github.com/DarknetList/darknet-list#readme"
+  "homepage": "https://github.com/DarknetList/darknet-list#readme",
+  "devDependencies": {
+    "generator-awesome-list": "^2.0.2",
+    "yo": "^4.3.0"
+  }
 }
