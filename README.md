@@ -1,12 +1,12 @@
 <center>
 
-<img src="./assets/logo.svg" width="400">
+<img src="./assets/logo.png" width="400">
 
 </center>
 
 # Awesome Darknet
 
-[![Awesome](assets/badge.svg)](https://awesome.re)
+[![Awesome](assets/badge.png)](https://awesome.re)
 
 > A curated list of PGP verified `.onion` links of various Onion Services on darknet
 
@@ -44,7 +44,7 @@
 *Established Darknet markets that have been operating for a while*
 
 - [Monopoly Market](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion) - `http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion`
-  - Since WHM closed shop, Monopoly is now one the largest market out there. Probably the only marketplace that doesn't require you to create an account to use it
+  - Probably the only marketplace that doesn't require you to create an account to use it
 - [Dark0de](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) - `http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion`
   - Same as with Monopoly, since White House retired, it is now one of the largest marketplaces
 - [Versus Market](http://pqqmr3p3tppwqvvapi6fa7jowrehgd36ct6lzr26qqormaqvh6gt4jyd.onion) - `http://pqqmr3p3tppwqvvapi6fa7jowrehgd36ct6lzr26qqormaqvh6gt4jyd.onion`
