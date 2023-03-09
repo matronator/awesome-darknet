@@ -43,6 +43,8 @@
 
 *Established Darknet markets that have been operating for a while*
 
+- [AlphaBay](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion) - `http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion`
+  - Originally shut down in 2017, it was re-opened by a former original AlphaBay admin. They've been down for some time now, so it's starting to look not very good, but let's hope it's not an exit scam or a seizure
 - [Monopoly Market](http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion) - `http://monopolydc6hvkh425ov6xolmgx62q2tgown55zvhpngh75tz5xkzfyd.onion`
   - Probably the only marketplace that doesn't require you to create an account to use it
 - [Dark0de](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) - `http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion`
@@ -62,10 +64,6 @@
 
 *New and upcoming markets*
 
-- [AlphaBay Market 2021](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion) - `http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion`
-  - Originally shut down in 2017, it was re-opened by a former original AlphaBay admin. Some say EUROPOL/FBI is running the site to trap vendors, but couldn't verify this
-- [Casio Market](http://2y5laor5xsyd52nxitd4duee3a24txrv4v76ubjuxr7szkditrglzzqd.onion) - `http://2y5laor5xsyd52nxitd4duee3a24txrv4v76ubjuxr7szkditrglzzqd.onion`
-  - Found this via an ad on Elude and they seem legit, though not much talk anywhere about them
 - [Bohemia](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion) - `http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion`
   - Wanted to make an account, but it's just so slow I gave up
 
